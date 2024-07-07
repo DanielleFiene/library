@@ -1,4 +1,4 @@
-Library
+LIBRARY
 Build a Library using JavaScript classes and inheritance
 
 Build a Library
